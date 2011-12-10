@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  8 DEC 2011 19:26
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 DEC 2011 16:30
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
-**paper.tex
+**paper
 (./paper.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
@@ -63,30 +62,49 @@ Missing character: There is no Õ in font cmr12!
  [3]
 Missing character: There is no Õ in font cmr12!
 
-Overfull \hbox (18.59303pt too wide) in paragraph at lines 41--41
-[]\OT1/cmr/bx/n/14.4 Inverse Mod-el-ing of Pressure-Pulse De-cay of a Lower-
+Overfull \hbox (5.03471pt too wide) in paragraph at lines 41--41
+[]\OT1/cmr/bx/n/14.4 Inverse Mod-el-ing of Pressure-Pulse De-cay of a Low-
  []
 
-[4] [5] (./paper.aux)
+[4] (./paper.bbl
+Underfull \hbox (badness 1715) in paragraph at lines 11--15
+[]\OT1/cmr/m/n/12 Stefan Behnel, Robert Brad-shaw, Craig Citro, Lisan-dro Dal-c
+in,
+ []
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+[5]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [6]
+Underfull \hbox (badness 3302) in paragraph at lines 87--92
+[]\OT1/cmr/m/n/12 Rolf Raben-seifner, Georg Hager, and Gabriele Jost.  Hy-brid
+ []
 
- ) 
+) [7] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
- 217 strings out of 493633
- 2351 string characters out of 3143378
+ 243 strings out of 493633
+ 2670 string characters out of 3143378
  55245 words of memory out of 3000000
- 3599 multiletter control sequences out of 15000+200000
- 6063 words of font info for 22 fonts, out of 3000000 for 9000
+ 3621 multiletter control sequences out of 15000+200000
+ 6410 words of font info for 23 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 22i,6n,19p,1047b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on paper.pdf (5 pages, 53779 bytes).
+ 22i,6n,19p,1043b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti12.pfb>
+Output written on paper.pdf (7 pages, 78942 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

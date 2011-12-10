@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: paper.aux
+The style file: plain.bst
+Database file #1: hpcinthecloud.bib
+Warning--there's a number but no series in Alghamdi2011a
+Warning--there's a number but no volume in HaskettS.E.;NaraharaG.M.;Holditch1988
+Warning--empty school in Ning1992
+Warning--there's a number but no series in Rabenseifner2009
+Warning--there's a number but no series in Seljebotn2009
+You've used 18 entries,
+            2118 wiz_defined-function locations,
+            620 strings with 7301 characters,
+and the built_in function-call counts, 6281 in all, are:
+= -- 621
+> -- 265
+< -- 9
++ -- 105
+- -- 87
+* -- 448
+:= -- 1021
+add.period$ -- 56
+call.type$ -- 18
+change.case$ -- 96
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 253
+empty$ -- 512
+format.name$ -- 87
+if$ -- 1325
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 17
+newline$ -- 93
+num.names$ -- 38
+pop$ -- 98
+preamble$ -- 1
+purify$ -- 79
+quote$ -- 0
+skip$ -- 174
+stack$ -- 0
+substring$ -- 399
+swap$ -- 66
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 5
+while$ -- 65
+width$ -- 20
+write$ -- 201
+(There were 5 warnings)

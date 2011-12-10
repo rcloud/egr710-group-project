@@ -1,0 +1,112 @@
+\begin{thebibliography}{10}
+
+\bibitem{Alghamdi2011a}
+Amal Alghamdi, Aron Ahmadia, David~I Ketcheson, Matthew~G Knepley, and Kyle~T
+  Mandli.
+\newblock {PetClaw : A Scalable Parallel Nonlinear Wave Propagation Solver for
+  Python}.
+\newblock In {\em Proceedings of HPC}, number~1, 2011.
+
+\bibitem{behnel}
+Stefan Behnel, Robert Bradshaw, Craig Citro, Lisandro Dalcin, Dag~Sverre
+  Seljebotn, and Kurt Smith.
+\newblock {Cython: The Best of Both Worlds}.
+\newblock {\em Computing in Science \& Engineering}, 13(2):31--39, March 2011.
+
+\bibitem{Brebner2011}
+Paul Brebner.
+\newblock {Performance and cost assessment of cloud services}.
+\newblock {\em Service-Oriented Computing}, 2011.
+
+\bibitem{Cai2005}
+Xing Cai, H.P. Langtangen, and Halvard Moe.
+\newblock {On the performance of the Python programming language for serial and
+  parallel scientific computations}.
+\newblock {\em Scientific Programming}, 13(1):31--56, 2005.
+
+\bibitem{Dalcin2008}
+L~Dalcin, R~Paz, M~Storti, and J~Delia.
+\newblock {MPI for Python: Performance improvements and MPI-2 extensions}.
+\newblock {\em Journal of Parallel and Distributed Computing}, 68(5):655--662,
+  May 2008.
+
+\bibitem{Dalcin2005}
+Lisandro Dalc\'{\i}n, Rodrigo Paz, and Mario Storti.
+\newblock {MPI for Python}.
+\newblock {\em Journal of Parallel and Distributed Computing},
+  65(9):1108--1115, September 2005.
+
+\bibitem{Dalcin2011}
+Lisandro~D. Dalcin, Rodrigo~R. Paz, Pablo~a. Kler, and Alejandro Cosimo.
+\newblock {Parallel distributed computing using Python}.
+\newblock {\em Advances in Water Resources}, 34(9):1124--1139, April 2011.
+
+\bibitem{Finsterle1997}
+Stefan Finsterle and Peter Persoff.
+\newblock {Determining permeability of tight rock samples using inverse
+  modeling}.
+\newblock {\em Water Resources Research}, 33(8):1803, 1997.
+
+\bibitem{Granger2010}
+B.~Granger.
+\newblock {Python an ecosystem for scientific computing}.
+\newblock {\em CiSE 2011 Special Python Issue}, page~5, 2010.
+
+\bibitem{HaskettS.E.;NaraharaG.M.;Holditch1988}
+S.A. {Haskett, S.E.; Narahara, G.M.; Holditch}.
+\newblock {Simultaneous determination of permeability and porosity in
+  low-permeability cores}.
+\newblock {\em SPE Formation Evaluation}, (September 1988):651 -- 658, 1988.
+
+\bibitem{Neuzil1981}
+S.E. {Hsieh, P.A.; Tracy, J.V.; Neuzil, C.E.; Bredehoeft, J.D.; Silliman}.
+\newblock {Transient laboratory method for determining the hydraulic properties
+  of ‘tight’ rocks - 1. Theory Hsieh, P A; Tracy, J V; Neuzil, C E Int J
+  Rock Mech Min Sci, V18, N3, June 1981, P245–252}.
+\newblock {\em International Journal of Rock Mechanics and Mining Sciences \&
+  Geomechanics Abstracts}, 18(5):89--89, October 1981.
+
+\bibitem{Kloeckner2010}
+Andreas Kloeckner.
+\newblock {Scripting GPUs with PyOpenCL}.
+\newblock In {\em Scipy 2010}, 2010.
+
+\bibitem{masini}
+Stefano Masini and Paolo Bientinesi.
+\newblock {High-Performance Parallel Computations using Python as High-Level
+  Language}.
+\newblock In {\em EuroPar 2010}, 2010.
+
+\bibitem{Ning1992}
+X.~Ning.
+\newblock {\em {The measurement of matrix and fracture properties in naturally
+  fractured low permeability cores using a pressure pulse method}}.
+\newblock PhD thesis, 1992.
+
+\bibitem{Rabenseifner2009}
+Rolf Rabenseifner, Georg Hager, and Gabriele Jost.
+\newblock {Hybrid MPI/OpenMP parallel programming on clusters of multi-core SMP
+  nodes}.
+\newblock In {\em Parallel, Distributed and Network-based Processing, 2009 17th
+  Euromicro International Conference on}, number~c, pages 427--436. IEEE, 2009.
+
+\bibitem{Seljebotn2009}
+Dag~Sverre Seljebotn.
+\newblock {Fast numerical computations with Cython}.
+\newblock In {\em Proceedings of the 8th Python in Science Conference (SciPy
+  2009)}, number SciPy, pages 15--22, 2009.
+
+\bibitem{Unpingco2008}
+Jos\'{e} Unpingco.
+\newblock {User Friendly High Productivity Computational Workflows Using the
+  VISION/HPC Prototype}.
+\newblock In {\em 2008 DoD HPCMP Users Group Conference}, pages 387--390. Ieee,
+  2008.
+
+\bibitem{wilbers}
+I.M. Wilbers, H.P. Langtangen, and \AA~smund \O~deg\aa rd.
+\newblock {Using Cython to Speed up Numerical Python Programs}.
+\newblock In {H. I. Andersson}, editor, {\em Proceedings of MekIT}, volume~9,
+  pages 495--512, 2009.
+
+\end{thebibliography}
